@@ -66,4 +66,4 @@ A console-based banking application built with Java that demonstrates Object-Ori
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[YourUsername]/SecureBankApp-[YourRegNumber].git
+git clone https://github.com/murphy0021/SecureBankingApp-H240309Y.git
