@@ -7,27 +7,27 @@ Secure Banking Application
 A console-based banking application built with Java that demonstrates Object-Oriented Programming principles and secure coding practices. The application provides basic banking operations with secure data persistence.
 
 ## Student Details
-- **Name:** [Your Name]
-- **Registration Number:** [Your Registration Number]
+- **Name:** Tanyaradza Gamba
+- **Registration Number:** H240309Y
 
 ## Features Implemented
 
-### ✅ User Authentication
+###  User Authentication
 - Secure user registration and login system
 - Password hashing using SHA-256 with salt
 - Session management
 
-### ✅ Account Management
+###  Account Management
 - Create new bank accounts
 - View account balance with proper authorization
 - Account ownership validation
 
-### ✅ Transaction Processing
+###  Transaction Processing
 - Deposit funds with validation
 - Withdraw funds with balance checking
 - Transaction history tracking
 
-### ✅ Data Persistence
+###  Data Persistence
 - All data stored in text files
 - Automatic loading on application start
 - Real-time saving of changes
@@ -36,13 +36,13 @@ A console-based banking application built with Java that demonstrates Object-Ori
   - Account details (accounts.txt)
   - Transaction history (transactions.txt)
 
-### ✅ Security Features
+###  Security Features
 - Password hashing and salting
 - Input validation
 - Authorization checks for all operations
 - Secure data serialization
 
-### ✅ Error Handling
+###  Error Handling
 - Comprehensive exception handling
 - User-friendly error messages
 - Data integrity checks
